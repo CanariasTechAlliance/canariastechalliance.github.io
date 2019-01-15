@@ -2,18 +2,18 @@
 layout: default
 title: Canarias Tech Alliance Site
 ---
-# Manifesto
+# Manifiesto
  
-This is a work in progress. Coming soon!
+Esta sección está en construcción. ¡Pronto estará lista!
 
-## Mission
-
-.
-
-## Goals
+## Misión
 
 .
 
-## Principles
+## Objetivos
+
+.
+
+## Principios
 
 .

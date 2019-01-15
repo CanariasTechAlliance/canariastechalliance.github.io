@@ -2,5 +2,5 @@
 layout: default
 title: Canarias Tech Alliance Site
 ---
-# Welcome!
-This is a work in progress. Coming soon!
+# Bienvenido
+Este es un trabajo en progreso. ¡Pronto estará listo!
