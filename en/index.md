@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Canarias Tech Alliance Site
-alt: ../
+altLang: Español
+altLangDir: ../
 ---
 # Welcome!
 This is a work in progress. Coming soon!
