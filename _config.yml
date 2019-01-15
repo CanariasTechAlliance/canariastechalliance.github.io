@@ -1,5 +1,6 @@
 name: Canarias Tech Alliance
 description: Tech Communities of the Canary Islands
+descriptionEs: Comunidades tecnológicas de Canarias
 markdown: kramdown
 
 theme: jekyll-theme-cayman
