@@ -1,3 +1,7 @@
+---
+layout: default-en
+title: Canarias Tech Alliance Site
+---
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge

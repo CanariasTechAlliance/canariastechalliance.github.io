@@ -1,8 +1,6 @@
 ---
 layout: default
 title: Canarias Tech Alliance Site
-altLang: English
-altLangDir: en
 ---
 # Manifiesto
  
