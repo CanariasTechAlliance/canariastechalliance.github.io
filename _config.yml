@@ -4,3 +4,4 @@ descriptionEs: Comunidades tecnológicas de Canarias
 markdown: kramdown
 
 theme: jekyll-theme-cayman
+include: CODE_OF_CONDUCT.md
