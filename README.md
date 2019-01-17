@@ -16,10 +16,10 @@ Todos los aportes constructivos son bienvenidos, así que si deseas contribuir s
 
 Este repositorio hace uso de [GitHub Pages](https://pages.github.com/), que se basa en [Jekyll](https://jekyllrb.com/).
 
-Además de los enlaces anteriores puedes acudir a la [documentación](https://help.github.com/categories/github-pages-basics/) para informarte sobre los ficheros especiales y la estructura de directorios propia de estos proyectos.
+Además de los enlaces anteriores, puedes acudir a la [documentación](https://help.github.com/categories/github-pages-basics/) para informarte sobre los ficheros especiales y la estructura de directorios propia de estos proyectos.
 
-El contenido del sitio en sí son los ficheros ".md", que siguen la [sintaxis Markdown de GitHub](https://guides.github.com/features/mastering-markdown/).
+El contenido del sitio se define en los ficheros ".md", que siguen la [sintaxis Markdown de GitHub](https://guides.github.com/features/mastering-markdown/).
 
 ---
 
-_El contenido de este repositorio esta sujeto a los términos especificados en [este fichero de licencia](LICENSE), basado en la Licencia MIT._
+_El contenido de este repositorio esta sujeto a los términos especificados en [este fichero de licencia](LICENSE), basado en Licencia MIT._
