@@ -18,4 +18,4 @@ Cuando tu _Pull Request_ esté listo para ser mezclado, los mantenedores del rep
 
 ## Código de conducta
 
-Este proyecto y todos los que participamos en él, estamos sujetos al siguiente [Código de conducta](CODE_OF_CONDUCT.md). Al participar, se espera que respetemos todo lo que en él se indica. Por favor, haz llegar cualquier comportamiento inapropiado que deectes a [contact@romenrg.com](mailto:contact@romenrg.com).
+Este proyecto y todos los que participamos en él, estamos sujetos al siguiente [código de conducta](CODE_OF_CONDUCT.md). Al participar, se espera que respetemos todo lo que en él se indica. Por favor, haz llegar cualquier comportamiento inapropiado que deectes a [contact@romenrg.com](mailto:contact@romenrg.com).
