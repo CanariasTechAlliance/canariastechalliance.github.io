@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Bienvenido a Canarias Tech Alliance 
 
-You can use the [editor on GitHub](https://github.com/CanariasTechAlliance/canariastechalliance.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Este repositorio es la fuente del contenido del site de la alianza y contiene acuerdos relevantes, como nuestro manifiesto, que engloba nuestra misión, objetivos y principios.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_If you are an English speaker, please refer to the [English README](en/README.md).
 
-### Markdown
+### Contribuye
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Si eres un miembro de las comunidades englobadas dentro de [Canarias Tech Alliance](https://canariastechalliance.github.io), no dudes en contribuir a mejorar cualquiera de los contenidos de este repositorio.
 
-```markdown
-Syntax highlighted code block
+Todos los aportes constructivos son bienvenidos, así que si deseas contribuir solamente es necesario que sigas la [guía para contribuciones](CONTRIBUTING.md).
 
-# Header 1
-## Header 2
-### Header 3
+### Sobre la tecnología
 
-- Bulleted
-- List
+Este repositorio hace uso de [GitHub Pages](https://pages.github.com/), que se basa en [Jekyll](https://jekyllrb.com/).
 
-1. Numbered
-2. List
+Además de los enlaces anteriores puedes acudir a la [documentación](https://help.github.com/categories/github-pages-basics/) para informarte sobre los ficheros especiales y la estructura de directorios propia de estos proyectos.
 
-**Bold** and _Italic_ and `Code` text
+El contenido del sitio en sí son los ficheros ".md", que siguen la [sintaxis Markdown de GitHub](https://guides.github.com/features/mastering-markdown/).
 
-[Link](url) and ![Image](src)
-```
+---
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CanariasTechAlliance/canariastechalliance.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+_El contenido de este repositorio esta sujeto a los términos especificados en [este fichero de licencia](LICENSE), basado en la Licencia MIT._
