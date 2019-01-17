@@ -1,22 +1,21 @@
-# Contributing to this repository
+# Contribuir a este repositorio
 
-This page provides information about contributing code to this repository.
+Esta página provee información sobre cómo contribuir a este repositorio.
 
-## Getting started
+## Comenzando
 
-### Get your copy
+### Obtén tu copia
 
-* Fork the repository on Github
-* Clone the forked repository to your machine
-* Set up the official repository as a new "remote" in your cloned repository
-so that you can fetch new changes from it
+* Haz un _fork_ de este repositorio a través de la interfaz de Github
+* Haz un clonado (`git clone`) de tu _fork_ para obtener una copia local del repositorio en tu máquina
+* Configura el repositorio oficial (éste) como un nuevo "remote" de tu copia local, para que puedas traerte los nuevos cambios a medida que se vayan publicando.
 
-## Propose Changes
+## Propón cambios
 
-To submit changes, use a [GitHub Pull Request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) from your fork to this repository.
+Para proponer cambios, crea un [GitHub Pull Request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) desde tu fork de este repositorio.
 
-When your Pull Request is ready to be merged, the repository maintainers will integrate it and it will be published in the next release.
+Cuando tu _Pull Request_ esté listo para ser mezclado, los mantenedores del repositorio lo integrarán y será publicado en la nueva _release_.
 
-## Code of Conduct
+## Código de conducta
 
-This project and everyone participating in it is governed by the following [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [contact@romenrg.com](mailto:contact@romenrg.com).
+Este proyecto y todos los que participamos en él, estamos sujetos al siguiente [Código de conducta](CODE_OF_CONDUCT.md). Al participar, se espera que respetemos todo lo que en él se indica. Por favor, haz llegar cualquier comportamiento inapropiado que deectes a [contact@romenrg.com](mailto:contact@romenrg.com).
