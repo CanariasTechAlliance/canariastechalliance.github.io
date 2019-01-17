@@ -2,7 +2,7 @@
 
 Este repositorio es la fuente del contenido del site de la alianza y contiene acuerdos relevantes, como nuestro manifiesto, que engloba nuestra misión, objetivos y principios.
 
-_If you are an English speaker, please refer to the [English README](en/README.md).
+_If you are an English speaker, please refer to the [English README](en/README.md)._
 
 ### Contribuye
 
