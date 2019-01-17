@@ -12,7 +12,7 @@ Esta página provee información sobre cómo contribuir a este repositorio.
 
 ## Propón cambios
 
-Para proponer cambios, crea un [GitHub Pull Request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) desde tu fork de este repositorio.
+Para proponer cambios, crea un [GitHub Pull Request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) desde tu fork, a través de la interfaz web de GitHub.
 
 Cuando tu _Pull Request_ esté listo para ser mezclado, los mantenedores del repositorio lo integrarán y será publicado en la nueva _release_.
 
