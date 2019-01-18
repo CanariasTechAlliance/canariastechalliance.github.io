@@ -24,8 +24,10 @@ This file keeps a log of version releases. This file is maintained
 
 * Set up GitHub Pages
 * Basic Jekill strucure and first index
+* Basic manifest (including mission, objectives and principles)
 * Contributing guideline and PR template
 * Code of conduct
+* Bilingual site (Spanish / English)
 * Changelog
 
 #### Changed
