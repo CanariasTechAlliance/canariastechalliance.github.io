@@ -16,7 +16,7 @@ Si tienes dudas, sigue las [instrucciones de GitHub](https://help.github.com/art
 
 Para proponer cambios:
  * Asegúrate de tener tu copia local actualizada.
- * Crea una nueva rama para el cambio a proponer (`git checkout-b <nombre-de-la-rama>`).
+ * Crea una nueva rama para el cambio a proponer (`git checkout -b <nombre-de-la-rama>`).
  * Añade tus cambios utilizando [_micro commits_](https://lucasr.org/2011/01/29/micro-commits/).
  * Una vez completados tus cambios, haz _push_ a tu _fork_.
  * Finalmente, crea un [GitHub Pull Request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) desde tu fork, a través de la interfaz web de GitHub.
