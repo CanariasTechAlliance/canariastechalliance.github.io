@@ -14,7 +14,7 @@ This file keeps a log of version releases. This file is maintained
       * X = breaking change (previous version is now deprecated),
       * Y = additive change (previous version is still valid),
       * Z = just a simple patch (for a typo or error).
-* When a the new version is released, a new [Unreleased] section is created in the "Release Change History" below.
+* When the new version is released, a new [Unreleased] section is created in the "Release Change History" below.
 
 ## Release Change History
 
